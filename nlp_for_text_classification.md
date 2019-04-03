@@ -159,6 +159,23 @@ The model only predicts the missing words, but it has no information on which wo
 [IMDb Sentiment Analysis Notebook](./nbs/lesson3-imdb.pdf)
 
 ---
+## How could you use NLP?
+
+Text portion of Insurance Claim, any hint of a fall in hospital?
+
+Chat History, problem chats that need supervisor attention
+---
+## Genomics
+
+<img src="./images/ULMFiT_for_genomics.png"  height="400">[7]
+https://github.com/kheyer/Genomic-ULMFiT
+---
+<img src="./images/GenomicLangModel.jpg"  width="1000">[7]
+
+---
+<img src="./images/K-mer.jpg"  width="1000">[7]
+
+---
 Questions?
 
 ---
