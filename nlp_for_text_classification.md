@@ -20,6 +20,7 @@ Looking for Presenters
 
 https://meanderingstream.github.io/nlp_for_text_classification
 
+https://github.com/meanderingstream/nlp_for_text_classification
 ---
 * Embeddings vs Encodings
 * Transfer Learning
