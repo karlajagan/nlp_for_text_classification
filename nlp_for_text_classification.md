@@ -27,6 +27,7 @@ https://meanderingstream.github.io/nlp_for_text_classification
 * UMLFIT
 * BERT
 * GPT-2
+* How could you use NLP?
 
 ---
 ## Embedding vs Encoding
@@ -106,6 +107,20 @@ Embeddings from Language Model
 
 <img src="./images/slanted_triangle.png"  width="600">[6]
 
+---
+## Augmentation - Text
+
+<img src="./images/back_translation.png"  width="900">[8]
+
+---
+## Does Back Translation Help?
+
+<img src="./images/impact_of_backtranslation.png"  height="400">[8]
+
+---
+## Which Languages Help?
+
+<img src="./images/impact_of_languages.png"  width="600">[8]
 ---
 ## Transformer
 
@@ -202,6 +217,28 @@ https://ai-tampa-study-group.github.io/meetings/
 
 [7] https://github.com/kheyer/Genomic-ULMFiT
 
+[8] https://arxiv.org/pdf/1903.09244v2.pdf
+
+---
+## Good Additional Resources
+
+https://engineering.linecorp.com/en/blog/overview-of-2018-language-models/
+
+https://blog.frame.ai/learning-more-with-less-1e618a5aa160
+
+https://openai.com/blog/language-unsupervised/
+
+https://thegradient.pub/nlp-imagenet/
+
+http://jalammar.github.io/illustrated-bert/
+
+---
+
+http://mlexplained.com/2019/01/07/paper-dissected-bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding-explained/
+
+http://ruder.io/thesis/
+
+https://towardsdatascience.com/transformer-xl-explained-combining-transformers-and-rnns-into-a-state-of-the-art-language-model-c0cfe9e5a924
 ---
 
 [KnowFalls.com](https://www.KnowFalls.com/)
